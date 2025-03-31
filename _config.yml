@@ -1,0 +1,27 @@
+title: Efe Sozen
+description: Personal website and portfolio
+baseurl: ""
+url: "https://efesozen.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Author information
+author:
+  name: Efe Sozen
+  email: your-email@example.com
+
+# Social media profiles
+social:
+  github: efesozen
+  linkedin: your-linkedin-username
+  twitter: your-twitter-username
+
+# Navigation links
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
